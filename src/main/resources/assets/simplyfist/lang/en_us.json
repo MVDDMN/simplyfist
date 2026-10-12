@@ -1,0 +1,13 @@
+{
+  "itemGroup.simplyfist": "SimplyFist",
+  "item.simplyfist.boxing_gloves": "Boxing Gloves",
+  "item.simplyfist.bloody_knuckles": "Bloody Knuckles",
+  "item.simplyfist.mishima_gauntlet": "Mishima Gauntlet",
+  "item.simplyfist.thunder_spear_gauntlet": "Thunder Spear Gauntlet",
+  "item.simplyfist.fire_spear_gauntlet": "Fire Spear Gauntlet",
+  "item.simplyfist.steraks_gage": "Sterak's Gage",
+  "effect.simplyfist.rising_strike": "Rising Strike",
+  "effect.simplyfist.stun": "Discombobulate",
+  "effect.simplyfist.bleeding": "Serrated Hits",
+  "effect.simplyfist.vampirism": "Vampirism"
+}

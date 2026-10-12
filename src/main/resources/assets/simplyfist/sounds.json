@@ -1,0 +1,37 @@
+{
+  "punch-hit": {
+    "sounds": [
+      "simplyfist:punch-hit"
+    ]
+  },
+  "punch-up": {
+    "sounds": [
+      "simplyfist:punch-up"
+    ]
+  },
+  "punch-stun": {
+    "sounds": [
+      "simplyfist:punch-stun"
+    ]
+  },
+  "dash": {
+    "sounds": [
+      "simplyfist:dash"
+    ]
+  },
+  "rising-strike": {
+    "sounds": [
+      "simplyfist:rising-strike"
+    ]
+  },
+  "superman-punch": {
+    "sounds": [
+      "simplyfist:superman-punch"
+    ]
+  },
+    "charging": {
+    "sounds": [
+      "simplyfist:charging"
+    ]
+  }
+}
